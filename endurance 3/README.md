@@ -1,5 +1,6 @@
 # Endurance 3
-Dans ce nouvel essaie, j'ai repris les idées de Endurance 1 et 2 pour essayer de les rassembler. Pour faire la coque centrale, j'ai donc utilisé la fonction de lissage pour avoir une coque lisse entre les esquisses puis une extrusion pour avoir les ailes. Par la suite, j'ai refais de la même façon les ailerons (avec la tige de l'aileron fusionné à cette dernière). Et pour finir, j'ai arrondi le bout de l'aile et utilisé la fonction miroir pour reproduire ce que je venais de faire de l'autre côté de l'arête centrale (pour avoir le drone au complet).
+Dans ce nouvel essai, j'ai repris les idées d'Endurance 1 et 2 pour essayer de les rassembler. Pour faire la coque centrale, j'ai donc utilisé la fonction de lissage pour avoir une coque lisse entre les esquisses, puis une extrusion pour avoir les ailes. Par la suite, j'ai refait de la même façon les ailerons (avec la tige de l'aileron fusionnée à cette dernière). Et pour finir, j'ai arrondi le bout de l'aile et utilisé la fonction miroir pour reproduire ce que je venais de faire de l'autre côté de l'arête centrale (pour avoir le drone au complet).
+
 > endurance3Av
 <img width="1312" height="211" alt="endurance3Av" src="https://github.com/user-attachments/assets/f09da9fe-31fb-4292-b0c0-c3626a9b9801" />
 
